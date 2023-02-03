@@ -1,0 +1,28 @@
+#imagendefondo{
+    background-image: url(senati_ff-01.jpg);
+}
+class-divclass-h1{
+    color :aliceblue;
+    position: center;
+}
+#torreja{
+    width: 400px;
+    position: center;
+}
+#thirDiv{
+    background-color:blue;
+    height: 600px;
+    width: 500px;
+    position: center;
+}
+#spanId{
+    font-size:18px;
+    margin: 50px;
+    position: center;
+}
+#thirdDiv{
+    padding: 50px;
+    border: 10px, blue;
+    position: center;
+}
+
